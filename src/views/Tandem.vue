@@ -1,6 +1,6 @@
 <template>
   <div class="tandem">
-
+<h1>this is tandem</h1>
 
   </div>
 </template>
